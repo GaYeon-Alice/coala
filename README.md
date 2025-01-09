@@ -4,6 +4,11 @@
 <img width="743" src="https://github.com/user-attachments/assets/8a71672d-34e5-4a32-a7a3-7f925bd9cf93">
 <br><br>
 
+## 🎬 실행 화면 (썸네일 클릭 시 영상 재생)
+[![Video Label](http://img.youtube.com/vi/rJzrXX2XMNQ/0.jpg)](https://www.youtube.com/watch?v=rJzrXX2XMNQ)
+
+<br/>
+
 ## 🕒 개발 기간
 2024.01.11 - 2024.01.29
 <br><br>
@@ -56,9 +61,3 @@ KoBERT 모델과 CodeLlama 모델을 적용하여 챗봇의 답변 반환 과정
 <img width="743" height="548" alt="스크린샷 2024-01-31 오후 7 13 18" src="https://github.com/hariqueen/Llama2-python-chat/assets/62236700/b374e356-6b2c-4e8d-bd34-42b1ebf728f0"> <img width="743" height="548" alt="스크린샷 2024-01-31 오후 7 14 16" src="https://github.com/hariqueen/Llama2-python-chat/assets/62236700/48c025fd-c0ce-432a-b88c-3956371996ea"> <img width="743" height="548" alt="스크린샷 2024-01-31 오후 7 16 39" src="https://github.com/hariqueen/Llama2-python-chat/assets/62236700/8139a3a5-434a-4683-abe7-7796158a13ca"> <img width="743" height="548" alt="스크린샷 2024-01-31 오후 7 17 11" src="https://github.com/hariqueen/Llama2-python-chat/assets/62236700/88dbbd4e-f497-4427-ab8e-1f22cf4ac8d6"> <img width="743" height="548" alt="스크린샷 2024-01-31 오후 7 18 00" src="https://github.com/hariqueen/Llama2-python-chat/assets/62236700/58b48b67-d475-4b0e-960e-9e9f1ae682c1">
 
 <br/>
-
-## 🎬 실행 화면 (썸네일 클릭 시 영상 재생)
-[![Video Label](http://img.youtube.com/vi/rJzrXX2XMNQ/0.jpg)](https://www.youtube.com/watch?v=rJzrXX2XMNQ)
-
-<br/>
-
